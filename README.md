@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**Asanim/Asanim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and skilled professional with expertise in Embedded Linux, C++, AWS IoT, and Full Stack Web Development using Node.js. My journey in the tech world revolves around creating innovative solutions and bringing ideas to life.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Skills
+- **Embedded Linux**: Proficient in developing systems for Embedded Linux environments.
+- **C++**: Experienced in C++ programming, focusing on creating efficient and reliable solutions.
+- **AWS IoT**: Well-versed in AWS IoT, leveraging cloud services for connected devices and IoT applications.
+- **Full Stack Web Development**: Skilled in developing end-to-end web solutions, ensuring a seamless user experience.
+- **Node.js**: Expertise in using Node.js for server-side scripting and building scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Passion for Innovation
+My greatest passion lies in tackling challenges that push the boundaries of what's possible. I thrive in environments where I can apply my skills to solve problems that are entirely new and innovative.
+
+Happy Coding! 🚀
