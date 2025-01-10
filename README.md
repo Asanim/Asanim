@@ -9,6 +9,10 @@ I'm a passionate and skilled professional so on and so forth... Now that that is
 - AWS architecture utllizing microservices built upon Lambda
 - Backend dev with the GraphQl API framework over NoSQL databases
 
+## Older Projects
+- Full stack marketplace web application utilizing MariaDB, vue and vuetify
+- Circumference monitoring system for qualtiy control in manufacturing utilizing 2D LIDAR. Range of techniques for denoising pointclouds are investigated
+
 ## Technologies & Skills
 - **Embedded Linux**: Proficient in developing systems for Embedded Linux environments.
 - **C++**: Experienced in C++ programming, focusing on creating efficient and reliable solutions.
