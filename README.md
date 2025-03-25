@@ -2,7 +2,7 @@
 
 I'm a passionate and skilled professional so on and so forth... 
 
-Key skills are Embedded Linux, C++, AWS IoT, and Full Stack Web Development using Node.js. But I will pick up anything if a project requires it, heavens forbid VTL. My journey in the tech world revolves around creating innovative solutions and bringing ideas to life. I thrive upon open ended problems and freedom of choice. My skill of choice is common sense. In my experience, the wheel has been reinvented many times in software development... often the key is finding the right wheel to use. 
+Key skills are Embedded Linux, C++, AWS IoT, and Full Stack Web Development using Node.js. But I will pick up anything if a project requires it, except VTL. My journey in the tech world revolves around creating innovative solutions and bringing ideas to life. I thrive upon open ended problems and freedom of choice. My skill of choice is common sense. In my experience, the wheel has been reinvented many times in software development... often the key is finding the right wheel to use. 
 
 ## Recent Projects
 - ADAS and AI pedestrian detection systems purpose built for earthmoving machinery
@@ -23,4 +23,4 @@ Key skills are Embedded Linux, C++, AWS IoT, and Full Stack Web Development usin
 - **Node.js**: Node.js for server-side scripting, Lambda functions, scalable web applications.
 
 ## Passion for Innovation
-My greatest passion lies in tackling challenges that push the boundaries of what's possible. I thrive in environments where I can apply my skills to solve problems that are entirely new and innovative.
+My greatest passion lies in tackling new challenges and in the solutions I can bring.
