@@ -23,4 +23,4 @@ Key skills are Embedded Linux, C++, AWS IoT, and Full Stack Web Development usin
 - **Node.js**: Node.js for server-side scripting, Lambda functions, scalable web applications.
 
 ## Passion for Innovation
-My greatest passion lies in tackling new challenges and in the solutions I can bring.
+My greatest passion lies in tackling new challenges and building solutions that matter.
