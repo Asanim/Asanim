@@ -15,6 +15,14 @@ My journey in the tech world revolves around creating solutions and bringing ide
 - Python based installer scripts - commissioning production ready systems
 - Greengrass device management - software update of distributed and performance critical systems.
 
+## Open source projects: 
+- [quadruped-project](https://github.com/Asanim/quadruped-project) -  Four legged spider-style walking robot. This project is a derivative of other similar projects online, including the original project by Regis Hsu and the SunFounder Crawling Quadruped Robot Kit for Arduino. 
+- [vinmo](https://github.com/Asanim/vinmo) - A differential drive robot with gazebo simulation and environment mimicking a vineyard. This remains a work in progress 
+- [greengrass-components](https://github.com/Asanim/greengrass-components) - Demonstrates MQTT Publish/Subscribe, IoT Shadows, and Defer Deployment in C++ implementation with convenience scripts for the deployment of AWS Greengrass applications
+- [s3-file-uploader](https://github.com/Asanim/s3-file-uploader) -  Handles multimedia uploads in a purely C++ application running as an AWS Greengrass component. This project demonstrates how to authenticate and use AWS SDK for C++ on a AWS IoT/Greengrass device. 
+- [Yolov11x-orin-nano-multi-cam](https://github.com/Asanim/Yolov11x-orin-nano-multi-cam) -  Yolo v11 multi-camera inference application for evaluation of the Nvidia jetson orin nano. It features model conversion/export scripts, usb camera enumeration and orchestration of detection pipelines.
+- [rpi-5-halio](https://github.com/Asanim/rpi-5-halio) - Real-time object detection using a Hailo AI Kit on Raspberry Pi 5. It supports multiple USB cameras simultaneously, processing frames with latest-frame capture techniques to minimize latency. The application can handle single inputs (images/video/camera) or automatically detect and process multiple USB cameras in parallel, displaying each camera feed in separate OpenCV windows with object detection annotations.
+
 ## Older Projects
 - Full stack marketplace web application utilizing MariaDB, vue and vuetify
 - Circumference monitoring system for qualtiy control in manufacturing utilizing 2D LIDAR. Range of techniques for de-noising pointclouds are investigated
